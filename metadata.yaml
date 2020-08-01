@@ -1,12 +1,17 @@
 _repo: Big-Bend-National-Park-Land-of-Dramatic-Contrasts-and-Scenic-Grandeur_62658
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Big Bend National Park, Texas
+covers:
+- cover_type: archival
+  image_path: 62658-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, W. Ray
     gutenberg_agent_id: '52062'
     url: http://www.gutenberg.org/2009/agents/52062
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62658#Big-Bend-National-Park-Land-of-Dramatic-Contrasts-and-Scenic-Grandeur
 gutenberg_issued: '2020-07-15'
 gutenberg_type: Text
 identifiers:
